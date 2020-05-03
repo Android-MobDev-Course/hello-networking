@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloNetworking</string>
+    <string name="http_library">HTTP Library</string>
+    <string name="send_http_request">Send HTTP Request</string>
+</resources>
